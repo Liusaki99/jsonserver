@@ -1,4 +1,21 @@
-[
-    "mug",
-    "shirt"
-  ]
+{
+  "usuario":[{
+    "foto":"null",
+    "nombres":"Prueba",
+    "apellidoP":"p",
+    "telefonoCelular":"5548477751",
+    "telefonoCasa":"1444516484",
+    "email":"ejemplo",
+    "direccion":"direccion"
+  },
+  {
+    "foto":"null",
+    "nombres":"Prueba2",
+    "apellidoP":"p2",
+    "telefonoCelular":"5548477751",
+    "telefonoCasa":"1444516484",
+    "email":"ejemplo2",
+    "direccion":"direccion2"
+  }
+]
+}
